@@ -1,0 +1,90 @@
+
+.float-left{
+	float: left;
+}
+
+.float-right{
+	float: right;
+}
+
+.jumbotron{
+	padding-bottom: 35px;
+	padding-top: 5px;
+	background-color: rgba(207,163,34, .6);
+
+
+}
+
+.bodyBgrnd{
+	background-image: url(http://cdn.mysitemyway.com/etc-mysitemyway/backgrounds/legacy-previews/backgrounds/retro-squares/retro-squares-000507-royal-blue.jpg);
+}
+
+h2{
+	margin: 10px;
+	background-color: rgba(207,163,34, .8);
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+
+h1, h2, h3, h4{
+	font-family: verdana;
+	color: #2d2f33
+	margin-top:20px;
+}
+
+
+.navlink{
+	color: darkgrey;
+}
+
+footer{
+	background-color: rgba(207,163,34, .8);
+	height: 50px
+
+}
+
+.profile{
+	padding-right: 10px;
+	visibility: .6;
+
+}
+
+aside{
+	background-color: rgba(207,163,34, .6);
+
+}
+
+.contactClick{
+	padding:0px 10px 0px 20px;
+}
+
+header{
+	text-align: center;
+	margin-top: 20px;
+}
+
+
+a{
+	margin-top: 17px;
+	margin-right: 10px;
+	color: #2d2f33;
+}
+
+p{
+	color: black;
+}
+
+.label{
+	position: relative;
+	top: -50px;
+	left: auto;
+	display: block;
+	background-color: rgba(207,163,34, .8);
+	font-size: 20px;
+}
+
+.profpic{
+	margin-left: auto;
+	margin-right: auto;
+}
